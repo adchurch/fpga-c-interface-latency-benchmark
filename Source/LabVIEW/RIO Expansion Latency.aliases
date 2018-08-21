@@ -2,7 +2,7 @@
 Ethernet RIO Target = "10.1.128.27"
 
 [My Computer]
-My Computer = "10.1.128.68"
+My Computer = "10.1.128.174"
 
 [RT CompactRIO Target]
 RT CompactRIO Target = "10.1.128.51"
